@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "友よ ～ この先もずっと･･･",
+  "base_artist": "ケツメイシ",
+  "createdAt": "2025-12-11T13:06:23.675638Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "友よ",
+      "artist": "STANCE PUNKS",
+      "has_synced": false,
+      "path": "select/01_友よ_STANCE_PUNKS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "友よ 〜 この先もずっと・・・",
+      "artist": "Ketsumeishi",
+      "has_synced": true,
+      "path": "select/02_友よ_〜_この先もずっと・・・_Ketsumeishi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "友よ ～ この先もずっと…",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/03_友よ_~_この先もずっと..._ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "友よ ～ この先もずっと･･･ - TOMOYO KONOSAKIMOZUTTO",
+      "artist": "KETSUMEISHI",
+      "has_synced": true,
+      "path": "select/04_友よ_~_この先もずっと・・・_-_TOMOYO_KONOSAKIMOZUTTO_KETSUMEISHI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "友よ",
+      "artist": "Hilcrhyme",
+      "has_synced": true,
+      "path": "select/05_友よ_Hilcrhyme.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "友よ",
+      "artist": "ガガガSP",
+      "has_synced": false,
+      "path": "select/06_友よ_ガガガSP.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "友よ",
+      "artist": "ANGERME",
+      "has_synced": true,
+      "path": "select/07_友よ_ANGERME.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "友よ",
+      "artist": "STANCE PUNKS",
+      "has_synced": true,
+      "path": "select/08_友よ_STANCE_PUNKS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "友よ",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/09_友よ_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "友よ ～ この先もずっと･･･(カラオケ) - TOMOYO KONOSAKIMOZUTTO KARAOKE",
+      "artist": "KETSUMEISHI",
+      "has_synced": true,
+      "path": "select/10_友よ_~_この先もずっと・・・(カラオケ)_-_TOMOYO_KONOSAKIMOZUTTO_KARAOKE_KETSUMEISHI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "友よ ～ この先もずっと･･･",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/11_友よ_~_この先もずっと・・・_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "友よ",
+      "artist": "関ジャニ∞",
+      "has_synced": false,
+      "path": "select/12_友よ_関ジャニ∞.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tomoyo [友よ]",
+      "artist": "STANCE PUNKS",
+      "has_synced": false,
+      "path": "select/13_Tomoyo_[友よ]_STANCE_PUNKS.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "友よ(チームK Ver.)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/14_友よ(チームK_Ver.)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "友よ　一番星だ",
+      "artist": "Hinatazaka46",
+      "has_synced": true,
+      "path": "select/15_友よ_一番星だ_Hinatazaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "友よ",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/pl_01_友よ_ケツメイシ.txt"
+    }
+  ]
+}
